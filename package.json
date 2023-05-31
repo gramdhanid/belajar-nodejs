@@ -1,0 +1,23 @@
+{
+  "name": "diourleman",
+  "version": "1.0.0",
+  "description": "dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"hello world\"",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gramdhanid/belajar-nodejs.git"
+  },
+  "keywords": [
+    "belajar-nodejs"
+  ],
+  "author": "gramdhanid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gramdhanid/belajar-nodejs/issues"
+  },
+  "homepage": "https://github.com/gramdhanid/belajar-nodejs#readme"
+}
